@@ -65,9 +65,8 @@ public class Equipo {
         }
     }
     void Print() {
-        System.out.println(ListaCiclistas);
-        //System.out.println("Nombre del equipo = " + Nombre);
-        //System.out.println("País = " + Pais);
-        //System.out.println("Total tiempo del equipo = " + TotalTiempo);
+        System.out.println("Nombre del equipo = " + Nombre);
+        System.out.println("País = " + Pais);
+        System.out.println("Total tiempo del equipo = " + TotalTiempo);
     }
 }  
